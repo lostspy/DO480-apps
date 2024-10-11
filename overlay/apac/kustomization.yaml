@@ -1,10 +1,6 @@
 kind: Kustomization
 bases:
   - ../../base
-<<<<<<< HEAD
-nameSuffix: apac-
+nameSuffix: -apac
 resources:
   - route.yaml
-=======
-nameSuffix: -apac
->>>>>>> 1929a87b1bbd6254a503120eb612e0a1a1b64b26
