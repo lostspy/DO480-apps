@@ -2,3 +2,5 @@ kind: Kustomization
 bases:
   - ../../base
 nameSuffix: apac-
+resources:
+  - route.yaml
